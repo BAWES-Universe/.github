@@ -8,6 +8,7 @@
 [![Universe](https://img.shields.io/badge/Universe-Live-0f766e?style=flat-square&logo=github&logoColor=white)](https://universe.bawes.net)
 [![StudentHub](https://img.shields.io/badge/StudentHub-Live-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.studenthub.co)
 [![Plugn](https://img.shields.io/badge/Plugn-Live-f97316?style=flat-square&logo=googlechrome&logoColor=white)](https://plugn.io)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/GgqPn375Uj)
 
 </div>
 
@@ -67,6 +68,14 @@ Together, they form a connected stack for real-world coordination inside digital
 - [StudentHub](https://www.studenthub.co)
 - [Plugn](https://plugn.io)
 - [Repositories](https://github.com/BAWES-Universe?tab=repositories)
+
+---
+
+## Join the Community
+
+We build in the open and welcome builders, students, founders, and curious people.
+
+**[→ Join us on Discord](https://discord.gg/GgqPn375Uj)** — share ideas, follow progress, and connect with the BAWES community.
 
 ---
 
