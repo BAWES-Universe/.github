@@ -8,7 +8,7 @@
 [![Universe](https://img.shields.io/badge/Universe-Live-0f766e?style=flat-square&logo=github&logoColor=white)](https://universe.bawes.net)
 [![StudentHub](https://img.shields.io/badge/StudentHub-Live-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.studenthub.co)
 [![Plugn](https://img.shields.io/badge/Plugn-Live-f97316?style=flat-square&logo=googlechrome&logoColor=white)](https://plugn.io)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/GgqPn375Uj)
+[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Discord&logo=discord&logoColor=white&color=5865F2&style=flat-square)](https://discord.gg/GgqPn375Uj)
 
 </div>
 
